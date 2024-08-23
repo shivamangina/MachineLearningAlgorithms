@@ -21,6 +21,8 @@ Write Algorithms from scratch in Python for all tbese Machine Learning Algorithm
 18. K-Means Clustering
 19. DBSCAN
 20. Hierarchical Clustering
+    Silhoutte Clustering (KN-Udemy)
+    Anomaly Detection (KN-Udemy)
 21. Apriori
 22. FP-Growth
 23. PageRank
@@ -48,5 +50,26 @@ Write Algorithms from scratch in Python for all tbese Machine Learning Algorithm
 45. Neural Doodle
 46. Neural Talk
 47. Neural Baby Talk
+
+
+[ ]  Perceptron
+[ ]  Multi Layer Perceptron
+[ ]  Gradient descent
+[ ]  universal approximation theorem
+[ ]  generalization vs Overfitting
+[ ]  Evaluation
+[ ]  Regularization
+[ ]  Optimizers
+[ ]  Transfer learning
+[ ]  Curse of dimensionality
+[ ]  Convolution Neural Network
+[ ]  Recurrent neural network
+[ ]  Transformers
+
+
+
+
+# Set the working directory
+python -m venv ml-algos
 
 
