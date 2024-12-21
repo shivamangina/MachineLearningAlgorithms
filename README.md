@@ -1,7 +1,7 @@
 # MachineLearningAlgorithms
 
-Write Algorithms from scratch in Python for all tbese Machine Learning Algorithms:
-1. Linear Regression - Stock Price Prediction 
+Write Algorithms from scratch in Python for all these Machine Learning Algorithms:
+1. Linear Regression - House Price Prediction 
 2. Classification - Spam/ Ham Detection 
 3. Logistic Regression
 4. K-Nearest Neighbors
@@ -53,23 +53,48 @@ Write Algorithms from scratch in Python for all tbese Machine Learning Algorithm
 
 
 [ ]  Perceptron
+    XOR Problem
 [ ]  Multi Layer Perceptron
 [ ]  Gradient descent
+    Stochastic Gradient Descent
 [ ]  universal approximation theorem
 [ ]  generalization vs Overfitting
+    Cross Validation
+    Bias-Variance Tradeoff
+    Optimization VS Learning
 [ ]  Evaluation
+    Confusion Matrix
+    Accuracy
+    Precision
+    Recall
 [ ]  Regularization
+    Lasso
+    Ridge
+    Early Stopping
+    Dropout
 [ ]  Optimizers
+    Momentum
+    Nesterov Accelerated Gradient
+    RMSprop
+    Adam
 [ ]  Transfer learning
 [ ]  Curse of dimensionality
 [ ]  Convolution Neural Network
+    ALexNet
+    VGG
+    ResNet
+    Lenet
+    Activation Maximization
+    Saliency Maps
 [ ]  Recurrent neural network
+    LSTM
+    GRU
 [ ]  Transformers
-
-
 
 
 # Set the working directory
 python -m venv ml-algos
+
+
 
 
