@@ -4,22 +4,21 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
 1. Linear Regression - House Price Prediction 
 2. Classification - Spam/ Ham Detection 
 3. Logistic Regression
-4. K-Nearest Neighbors
-5. Ridge Regression
-6. Lasso Regression
-7. Support Vector Machine - Heart Rate Failure
-8. Decision Trees
-9. Random Forest - House Price Prediction 
-10. Gradient Boosting Regression 
-11. K-Means 
+4. Ridge Regression
+5. Lasso Regression
+6. K-Means Clustering
+7. Gaussian Mixture Model
+8. Support Vector Machine - Heart Rate Failure
+9. Decision Trees
+10. Random Forest - House Price Prediction 
+11. Gradient Boosting Regression 
 12. Principal Component Analysis
 13. Neural Networks
 14. AdaBoost
 15. Naive Bayes
 16. Hidden Markov Model
-17. Gaussian Mixture Model
-18. K-Means Clustering
-19. DBSCAN
+17. K-Nearest Neighbors
+18. DBSCAN
 20. Hierarchical Clustering
     Silhoutte Clustering (KN-Udemy)
     Anomaly Detection (KN-Udemy)
