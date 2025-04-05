@@ -1,8 +1,18 @@
 # MachineLearningAlgorithms
 
+## Set the working directory
+```
+conda create -n ml-algos python=3.9
+conda activate ml-algos
+
+conda install jupyter numpy pandas matplotlib scikit-learn
+conda install -c conda-forge notebook
+jupyter notebook
+```
+
 Write Algorithms from scratch in Python for all these Machine Learning Algorithms:
 1. Linear Regression - House Price Prediction 
-2. Classification - Spam/ Ham Detection 
+2. Classification - Spam/ Ham Detection [*]
 3. Logistic Regression
 4. Ridge Regression
 5. Lasso Regression
@@ -43,56 +53,52 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
 39. CapsuleNet
 40. YOLO
 41. SSD
-42. Faster R-CNN
-43. Mask R-CNN
-44. Neural Style Transfer
-45. Neural Doodle
-46. Neural Talk
-47. Neural Baby Talk
+42. Named Entity Recognation
+43. Faster R-CNN
+44. Mask R-CNN
+45. Neural Style Transfer
+46. Neural Doodle
+47. Neural Talk
+48. Neural Baby Talk
+49. Perceptron 
+50. Multi Layer Perceptron
+51. XOR Problem
+52. Gradient descent
+53.  Transfer learning
+
+[ ] Universal approximation theorem
 
 
-[ ]  Perceptron
-    XOR Problem
-[ ]  Multi Layer Perceptron
-[ ]  Gradient descent
-    Stochastic Gradient Descent
-[ ]  universal approximation theorem
-[ ]  generalization vs Overfitting
+        
+[ ] Optimizers
+        Momentum
+        Nesterov Accelerated Gradient
+        RMSprop
+        Adam
+
+[ ]  Curse of dimensionality
+
+[ ]  Convolution Neural Network
+        ALexNet
+        VGG
+        ResNet
+        Lenet
+        Activation Maximization
+        Saliency Maps
+        
+[ ]  Recurrent neural network
+        LSTM
+        GRU
+
+
+
+
+
+[ ] Generalization vs Overfitting
     Cross Validation
     Bias-Variance Tradeoff
     Optimization VS Learning
-[ ]  Evaluation
-    Confusion Matrix
-    Accuracy
-    Precision
-    Recall
-[ ]  Regularization
-    Lasso
-    Ridge
-    Early Stopping
-    Dropout
-[ ]  Optimizers
-    Momentum
-    Nesterov Accelerated Gradient
-    RMSprop
-    Adam
-[ ]  Transfer learning
-[ ]  Curse of dimensionality
-[ ]  Convolution Neural Network
-    ALexNet
-    VGG
-    ResNet
-    Lenet
-    Activation Maximization
-    Saliency Maps
-[ ]  Recurrent neural network
-    LSTM
-    GRU
-[ ]  Transformers
 
-
-# Set the working directory
-python -m venv ml-algos
 
 
 
