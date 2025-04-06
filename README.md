@@ -5,10 +5,12 @@
 conda create -n ml-algos python=3.9
 conda activate ml-algos
 
-conda install jupyter numpy pandas matplotlib scikit-learn
+conda install jupyter numpy pandas matplotlib scikit-learn tensorflow seaborn
 conda install -c conda-forge notebook
 jupyter notebook
 ```
+conda install pip
+pip install "kagglehub[pandas-datasets]"
 
 Write Algorithms from scratch in Python for all these Machine Learning Algorithms:
 1. Linear Regression - House Price Prediction 
@@ -64,7 +66,8 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
 50. Multi Layer Perceptron
 51. XOR Problem
 52. Gradient descent
-53.  Transfer learning
+53. Transfer learning
+54. N Gram
 
 [ ] Universal approximation theorem
 
