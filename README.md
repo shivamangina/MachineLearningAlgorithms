@@ -71,8 +71,6 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
 
 [ ] Universal approximation theorem
 
-
-        
 [ ] Optimizers
         Momentum
         Nesterov Accelerated Gradient
