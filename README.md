@@ -72,24 +72,24 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
 [ ] Universal approximation theorem
 
 [ ] Optimizers
-        Momentum
-        Nesterov Accelerated Gradient
-        RMSprop
-        Adam
+        - Momentum
+        - Nesterov Accelerated Gradient
+        - RMSprop
+        - Adam
 
 [ ]  Curse of dimensionality
 
 [ ]  Convolution Neural Network
-        ALexNet
-        VGG
-        ResNet
-        Lenet
-        Activation Maximization
-        Saliency Maps
+        - ALexNet
+        - VGG
+        - ResNet
+        - Lenet
+        - Activation Maximization
+        - Saliency Maps
         
 [ ]  Recurrent neural network
-        LSTM
-        GRU
+        - LSTM
+        - GRU
 
 
 
