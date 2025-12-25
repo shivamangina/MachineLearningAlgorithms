@@ -1,5 +1,7 @@
 # MachineLearningAlgorithms
 
+# use this repo for pytorch practice
+
 ## Set the working directory
 ```
 conda create -n ml-algos python=3.9
