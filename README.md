@@ -93,10 +93,6 @@ Write Algorithms from scratch in Python for all these Machine Learning Algorithm
         - LSTM
         - GRU
 
-
-
-
-
 [ ] Generalization vs Overfitting
     Cross Validation
     Bias-Variance Tradeoff
