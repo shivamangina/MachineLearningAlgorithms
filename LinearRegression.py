@@ -26,7 +26,6 @@ plt.title('Scatter plot of GDP per capita vs Life satisfaction')
 plt.show()
 
 
-
 # TODO: Create a linear regression model
 # model = LinearRegression()
 # TODO: gradient decent and batch greedient descent and Stochastic
@@ -40,3 +39,24 @@ plt.show()
 # predicted_y = model.predict(new_X)
 
 # print("Predicted output:", predicted_y)
+
+class LinearRegression:
+    def __init__():
+        print("initialize parameteres")
+        
+    def forward_pass():
+        print("forward pass")
+        
+    def backward_pass():
+        print("backward pass")
+        
+    def compute_loss():
+        print("compute Loss")
+        
+    def update_parameters():
+        print(0)
+    
+    def train():
+        print("train")
+
+
