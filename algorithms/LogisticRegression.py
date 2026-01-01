@@ -40,7 +40,9 @@ plt.show()
 
 # print("Predicted output:", predicted_y)
 
-class LinearRegression:
+# Locally weighted linear regression
+
+class LogisticRegression:
     def __init__():
         print("initialize parameteres")
         
@@ -58,5 +60,7 @@ class LinearRegression:
     
     def train():
         print("train")
-
+        
+        
+# Logistic regression uses the sigmopoid function
 
