@@ -1,6 +1,6 @@
 # MachineLearningAlgorithms
 
-# use this repo for pytorch practice
+# use this repo for Machine Learning Algorithms from Scratch in Python
 
 ## Set the working directory
 ```
